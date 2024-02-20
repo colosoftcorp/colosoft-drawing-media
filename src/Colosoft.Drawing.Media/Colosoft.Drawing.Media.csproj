@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <TargetFrameworks>net8.0-windows;net472</TargetFrameworks>
-	<UseWpf>true</UseWpf>
+	  <UseWpf>true</UseWpf>
+		<EnableWindowsTargeting>true</EnableWindowsTargeting>
   </PropertyGroup>
 
   <ItemGroup>
